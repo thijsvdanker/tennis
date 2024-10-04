@@ -25,7 +25,7 @@ What we **COULD** have:
 If you are really at home with working with Laravel you'll probably figure it out. But if you are having trouble maybe this will help you out:
 
 Install these things on your computer:
-- PHP (7.4 or higher)
+- PHP (8.2 or higher)
 - Composer
 - Docker
 - Git Bash (**Windows Only**: comes as part of Git on Windows)

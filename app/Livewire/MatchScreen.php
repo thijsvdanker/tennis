@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Livewire;
+namespace App\Livewire;
 
 use App\Models\TennisGame;
 use Livewire\Component;
@@ -8,7 +8,9 @@ use Livewire\Component;
 class MatchScreen extends Component
 {
     public TennisGame $game;
+
     protected $player1 = 'Piet Sampless';
+
     protected $player2 = 'Andre Legacy';
 
     public function mount()

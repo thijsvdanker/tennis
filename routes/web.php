@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Livewire\MatchScreen;
+use App\Livewire\MatchScreen;
 use Illuminate\Support\Facades\Route;
 
 /*
